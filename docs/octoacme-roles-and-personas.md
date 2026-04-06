@@ -1,81 +1,130 @@
-# OctoAcme Personas
+# Developers
+**Role Summary**: Developers are responsible for building software applications that meet user needs. They code, debug, and document the software they produce.
 
-This document defines typical roles and responsibilities used in OctoAcme project docs and exercises.
+**Responsibilities**:
+- Write clean, maintainable code
+- Collaborate with team members in agile environments
+- Participate in code reviews
 
----
+**Goals**:
+- Deliver high-quality software on time
+- Continuously improve and refactor codebase
 
-## Developers
+**Typical Communication**:
+- Daily standups
+- Code review discussions
 
-### Role Summary
-Developers design, build, test, and deliver software components. They collaborate with product and project leads to implement features that meet acceptance criteria and quality standards.
+# Product Managers
+**Role Summary**: Product Managers define the vision for a product and ensure it meets the needs of the users. They drive product development from conception to launch.
 
-### Responsibilities
-- Implement features and fixes to meet acceptance criteria
-- Write and maintain tests and documentation
-- Participate in design and code reviews
-- Assist in estimating and planning work
-- Help identify technical risks and propose mitigations
+**Responsibilities**:
+- Conduct market research
+- Define product features and requirements
+- Coordinate with different teams to ensure successful product delivery
 
-### Goals
-- Deliver reliable, maintainable code
-- Reduce cycle time from idea to production
-- Maintain high test coverage and observability
+**Goals**:
+- Launch products that achieve market fit
+- Ensure customer satisfaction with product offerings
 
-### Typical Communication
-- Daily standups and sprint planning
-- PR descriptions and code review comments
-- Technical design docs when needed
+**Typical Communication**:
+- Stakeholder meetings
+- Regular updates to the team
 
----
+# Project Managers
+**Role Summary**: Project Managers oversee the planning, execution, and completion of projects. They ensure projects are delivered on time and within budget.
 
-## Product Managers
+**Responsibilities**:
+- Develop project plans
+- Allocate resources
+- Track project progress and manage risks
 
-### Role Summary
-Product Managers define what should be built to deliver customer and business value. They own the product vision, prioritize the backlog, and measure outcomes.
+**Goals**:
+- Complete projects on schedule
+- Stay within budget constraints
 
-### Responsibilities
-- Define problem statements and success metrics
-- Prioritize the roadmap and backlog
-- Collaborate with stakeholders and engineering on trade-offs
-- Validate solutions through user research and metrics
+**Typical Communication**:
+- Project kickoff meetings
+- Status updates and progress reports
 
-### Goals
-- Maximize customer value and impact
-- Make clear, data-driven prioritization decisions
-- Ensure product-market fit and usability
+# Technical Lead / Architect
+**Role Summary**: The Technical Lead/Architect designs the software architecture and ensures it meets quality standards and requirements.
 
-### Typical Communication
-- Weekly alignment with PM and engineering leads
-- Roadmap updates and stakeholder briefings
-- Acceptance criteria and feature specs
+**Responsibilities**:
+- Make high-level design decisions
+- Review code for architecture compliance
+- Guide the team in technical matters
 
----
+**Goals**:
+- Ensure the technical feasibility of projects
+- Promote best practices in software architecture
 
-## Project Managers
+**Typical Communication**:
+- Technical design discussions
+- Code review sessions
 
-### Role Summary
-Project Managers coordinate delivery activities, manage schedules, risks, and communications. They enable the team to deliver on commitments efficiently.
+# QA Lead / Test Engineer
+**Role Summary**: The QA Lead/Test Engineer is responsible for validating the quality and performance of the software through rigorous testing.
 
-### Responsibilities
-- Create and maintain project plans and timelines
-- Manage risks, dependencies, and resource constraints
-- Facilitate meetings (kickoff, planning, retrospectives)
-- Ensure consistent project documentation and status reporting
-- Coordinate cross-team and stakeholder communication
+**Responsibilities**:
+- Develop and execute test plans
+- Identify and document bugs
+- Work closely with developers to resolve issues
 
-### Goals
-- Deliver projects on time and within scope
-- Minimize unplanned work and escalations
-- Maintain transparency and alignment across stakeholders
+**Goals**:
+- Achieve high test coverage
+- Improve overall product quality
 
-### Typical Communication
-- Weekly status updates and stakeholder reports
-- Risk registers and decision logs
-- Coordination via project boards and meeting facilitation
+**Typical Communication**:
+- Test execution meetings
+- Daily syncs with development teams
 
----
+# UX/UI Designer
+**Role Summary**: The UX/UI Designer focuses on improving user experience and ensuring that the product's interface is user-friendly and visually appealing.
 
-## How these personas are used in the exercise
-- Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
-- Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
+**Responsibilities**:
+- Conduct user research
+- Create wireframes and prototypes
+- Work alongside developers to implement designs
 
+**Goals**:
+- Enhance user engagement
+- Ensure usability in the product's interface
+
+**Typical Communication**:
+- User feedback sessions
+- Design reviews with stakeholders
+
+# Support Lead / Customer Advocate
+**Role Summary**: The Support Lead/Customer Advocate is responsible for addressing customer issues and advocating for user needs within the company.
+
+**Responsibilities**:
+- Manage support requests
+- Gather customer feedback
+- Collaborate with other teams to improve customer satisfaction
+
+**Goals**:
+- Ensure high customer satisfaction scores
+- Reduce support response times
+
+**Typical Communication**:
+- Customer feedback meetings
+- Internal discussions on customer insights
+
+# Release Manager
+**Role Summary**: The Release Manager coordinates and oversees the release process of software products, ensuring smooth deployment and rollbacks if needed.
+
+**Responsibilities**:
+- Plan and schedule releases
+- Communicate release notes to stakeholders
+- Coordinate with various teams for release execution
+
+**Goals**:
+- Minimize release-related issues
+- Ensure consistent deployment processes
+
+**Typical Communication**:
+- Release planning meetings
+- Post-release reviews
+
+# How these personas are used in the exercise
+The personas provide a framework for understanding the roles involved in the development and management of projects. These outlines help in better communication, alignment of expectations, and collaborative efforts within teams.
